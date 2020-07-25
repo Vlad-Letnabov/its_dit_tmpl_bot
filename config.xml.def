@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+    <token>T0KeND@tA</token>
+    <messages>
+        <unknown>Я тебя не понимаю. Напиши /help</unknown>
+        <hello>Привет, чем я могу тебе помочь?</hello>
+        <help>Напиши привет или /help</help>
+    </messages>
+</config>
